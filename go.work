@@ -1,0 +1,8 @@
+go 1.20
+
+use (
+	./homework/due_10-07-2023/task_1
+	./homework/due_10-07-2023/task_2
+	./homework/due_10-07-2023/task_3
+	./homework/due_10-07-2023/task_4
+)
